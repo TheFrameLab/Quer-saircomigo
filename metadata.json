@@ -1,0 +1,6 @@
+{
+  "name": "Convite de Encontro",
+  "description": "Um site super fofo com tema pastel para convidar sua namorada para um encontro especial, com botões que fogem e páginas interativas de escolha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
